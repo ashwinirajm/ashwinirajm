@@ -9,7 +9,7 @@ ensure automation delivers reliable and actionable feedback.
 
 ---
 
-## Professional Focus
+## 🔍 Professional Focus
 - Mobile automation for Android and iOS (Appium)
 - API automation and schema validation
 - CI/CD-integrated test execution
@@ -18,7 +18,7 @@ ensure automation delivers reliable and actionable feedback.
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
 #### 1. [REST Assured API Automation](https://github.com/ashwinirajm/restassured-api-automation)
 Comprehensive API automation framework with REST Assured, TestNG, and Jenkins integration
@@ -54,7 +54,11 @@ Reusable GitHub Actions CI templates for test automation
 
 ---
 
-## Technology Stack
+## 🧰 Tech Stack
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![REST Assured](https://img.shields.io/badge/REST_Assured-00897B?style=for-the-badge)
+  ![Appium](https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white)
+
 **Languages:** Java, Python  
 **Automation:** Appium, TestNG, Cucumber, REST Assured  
 **Build & CI/CD:** Maven, GitHub Actions, Jenkins  
@@ -62,7 +66,7 @@ Reusable GitHub Actions CI templates for test automation
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 - Enhancing existing automation frameworks
 - Cross-platform mobile testing strategies
 - Integrating security testing into CI/CD pipelines
@@ -70,7 +74,10 @@ Reusable GitHub Actions CI templates for test automation
 
 ---
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/ashwini-raj
+## 🤝 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwini-raj)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashwinirajm)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwini.ash162@gmail.com)
+
 
 
