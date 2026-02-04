@@ -2,11 +2,9 @@
 
 ## Test Automation Engineer | SDET
 
-Software Development Engineer in Test (SDET) focused on building scalable and maintainable automation frameworks for mobile and API testing.
+Software Development Engineer in Test (SDET) focused on building **scalable and maintainable automation frameworks** for mobile and API testing.
 
-I design test architecture from the ground up, improve CI pipelines, and prioritize practical automation over unnecessary complexity.
-
-I collaborate closely with engineering teams to ensure automation provides reliable and actionable feedback.
+I design test architecture from scratch, improve CI pipelines, and prioritize practical automation over unnecessary complexity. I also collaborate closely with engineering teams to ensure automation provides reliable and actionable feedback.
 
 ---
 
