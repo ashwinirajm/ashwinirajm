@@ -56,7 +56,7 @@ Reusable GitHub Actions CI templates for test automation
 ---
 
 ## 🧰 Tech Stack
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![REST Assured](https://img.shields.io/badge/REST_Assured-00897B?style=for-the-badge)  ![Appium](https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![REST Assured](https://img.shields.io/badge/REST_Assured-00897B?style=for-the-badge)  ![Appium](https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white)  ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
 
 **Languages:** Java, Python  
 **Automation:** Appium, TestNG, Cucumber, REST Assured  
@@ -81,5 +81,6 @@ Reusable GitHub Actions CI templates for test automation
 ⭐ If you find my projects useful, feel free to star or fork!
 
 🧩 Open to collaboration on automation and quality engineering initiatives.
+
 
 
