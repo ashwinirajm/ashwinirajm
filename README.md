@@ -19,20 +19,6 @@ I design test architecture from scratch, improve CI pipelines, and prioritize pr
 
 ## 📌 Featured Projects
 
-#### [REST Assured API Automation](https://github.com/ashwinirajm/restassured-api-automation)
-Comprehensive API automation framework with REST Assured, TestNG, and Jenkins integration
-- Multi-API testing (Restful Booker, JSONPlaceholder, ReqRes)
-- Allure & TestNG reporting
-- Jenkins CI/CD pipeline
-- JSON Schema validation
-
-#### [Appium Mobile Test Framework](https://github.com/ashwinirajm/appium-mobile-test-framework)
-Enterprise-ready mobile automation framework for Android & iOS
-- Cross-platform testing (Android/iOS)
-- End-to-end, component, and DB-backed testing
-- Comprehensive reporting
-- Scalable architecture
-
 #### [Appium + Cucumber + TestNG](https://github.com/ashwinirajm/appium-cucumber-testng)
 BDD-focused mobile automation framework
 - Cucumber BDD for business-critical scenarios
