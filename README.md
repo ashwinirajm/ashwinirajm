@@ -1,23 +1,33 @@
 # Hi there, I'm Ashwini Raj 👋
 
-## Test Automation Engineer | SDET
+## QA Engineer 
 
-Software Development Engineer in Test (SDET) focused on building **scalable and maintainable automation frameworks** for mobile and API testing.
-
-I design test architecture from scratch, improve CI pipelines, and prioritize practical automation over unnecessary complexity. I also collaborate closely with engineering teams to ensure automation provides reliable and actionable feedback.
-
----
-
-## 🔍 Professional Focus
-- Mobile automation for Android and iOS (Appium)
-- API automation and schema validation
-- CI/CD-integrated test execution
-- Fixture-driven and DB-integrated end-to-end testing
-- Improving test stability, maintainability, and execution efficiency
+I’m a passionate QA Engineer focused on continuously learning, experimenting, and building robust test automation solutions. This profile reflects my journey of exploring new tools, frameworks, and best practices across UI, API, and mobile testing.
 
 ---
 
 ## 📌 Featured Projects
+
+#### [Pytest API Automation Framework](https://github.com/ashwinirajm/pytest-api-testing)
+- CRUD API test coverage
+- Parameterized tests
+- Fixtures for reusable setup
+- API key authentication
+- Negative testing
+- Structured validations
+
+#### [Playwright UI Automation Framework](https://github.com/ashwinirajm/playwright-ui-automation)
+- Page Object Model (POM)
+- Fixtures for setup
+- Config management
+- Screenshot on failure
+- Allure reporting
+
+#### [Automation CI Templates](https://github.com/ashwinirajm/automation-ci-templates)
+Reusable GitHub Actions CI templates for test automation
+- Ready-to-use CI/CD workflows
+- GitHub Actions integration
+- Modular and reusable
 
 #### [Appium + Cucumber + TestNG](https://github.com/ashwinirajm/appium-cucumber-testng)
 BDD-focused mobile automation framework
@@ -31,29 +41,15 @@ Security testing tool for real-time API monitoring
 - Real-time Slack alerts
 - Burp Suite extension (Python)
 
-#### [Automation CI Templates](https://github.com/ashwinirajm/automation-ci-templates)
-Reusable GitHub Actions CI templates for test automation
-- Ready-to-use CI/CD workflows
-- GitHub Actions integration
-- Modular and reusable
-
 ---
 
 ## 🧰 Tech Stack
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![REST Assured](https://img.shields.io/badge/REST_Assured-00897B?style=for-the-badge)  ![Appium](https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white)  ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
 
 **Languages:** Java, Python  
-**Automation:** Appium, TestNG, Cucumber, REST Assured  
+**Automation:** Appium, TestNG, Cucumber, REST Assured, Pytest, Requests, Playwright  
 **Build & CI/CD:** Maven, GitHub Actions, Jenkins  
 **Reporting:** Allure 
-
----
-
-## 🎯 Current Focus
-- Enhancing existing automation frameworks
-- Cross-platform mobile testing strategies
-- Integrating security testing into CI/CD pipelines
-- Exploring AI-assisted test generation
 
 ---
 
@@ -65,6 +61,4 @@ Reusable GitHub Actions CI templates for test automation
 ⭐ If you find my projects useful, feel free to star or fork!
 
 🧩 Open to collaboration on automation and quality engineering initiatives.
-
-
 
