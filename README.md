@@ -9,7 +9,7 @@ I’m a passionate QA Engineer focused on continuously learning, experimenting, 
 ## 📌 Featured Projects
 
 #### [Maestro Android Automation](https://github.com/ashwinirajm/maestro-android-framework)
-- End-to-end Android flow coverage (login, purchase, logout)
+- End-to-end Android flow coverage 
 - Data-driven testing with external YAML test data
 - Reusable modular Maestro flows
 - Supports dynamic element validation
