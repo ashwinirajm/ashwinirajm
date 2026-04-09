@@ -1,6 +1,6 @@
 # Hi there, I'm Ashwini Raj 👋
 
-## QA Engineer 
+## QA Engineer | Test Automation
 
 I’m a passionate QA Engineer focused on continuously learning, experimenting, and building robust test automation solutions. This profile reflects my journey of exploring new tools, frameworks, and best practices across UI, API, and mobile testing.
 
