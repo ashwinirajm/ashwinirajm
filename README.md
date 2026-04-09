@@ -8,6 +8,14 @@ I’m a passionate QA Engineer focused on continuously learning, experimenting, 
 
 ## 📌 Featured Projects
 
+#### [Maestro Android Automation](https://github.com/ashwinirajm/maestro-android-framework)
+- End-to-end Android flow coverage (login, purchase, logout)
+- Data-driven testing with external YAML test data
+- Reusable modular Maestro flows
+- Supports dynamic element validation
+- Device-specific execution via config
+- Clean and maintainable project structure
+
 #### [Pytest API Automation Framework](https://github.com/ashwinirajm/pytest-api-testing)
 - CRUD API test coverage
 - Parameterized tests
@@ -47,7 +55,7 @@ Security testing tool for real-time API monitoring
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![REST Assured](https://img.shields.io/badge/REST_Assured-00897B?style=for-the-badge)  ![Appium](https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white)  ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
 
 **Languages:** Java, Python  
-**Automation:** Appium, TestNG, Cucumber, REST Assured, Pytest, Requests, Playwright  
+**Automation:** Appium, TestNG, Cucumber, REST Assured, Pytest, Requests, Playwright, Maestro  
 **Build & CI/CD:** Maven, GitHub Actions, Jenkins  
 **Reporting:** Allure 
 
