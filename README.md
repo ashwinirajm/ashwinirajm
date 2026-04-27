@@ -37,7 +37,7 @@ Reusable GitHub Actions CI templates for test automation
 - GitHub Actions integration
 - Modular and reusable
 
-#### [Appium + Cucumber + TestNG](https://github.com/ashwinirajm/appium-cucumber-testng)
+#### [Appium-bdd-multidevice-framework](https://github.com/ashwinirajm/appium-bdd-multidevice-framework)
 BDD-focused mobile automation framework
 - Cucumber BDD for business-critical scenarios
 - Appium for mobile automation
