@@ -1,20 +1,25 @@
 # Hi there, I'm Ashwini Raj 👋
 
-## QA Engineer | Test Automation
+## SDET | AI Automation | AI Quality Engineering
 
-I’m a passionate QA Engineer focused on continuously learning, experimenting, and building robust test automation solutions. This profile reflects my journey of exploring new tools, frameworks, and best practices across UI, API, web and mobile testing.
+Building and experimenting with automation frameworks, AI-native testing workflows, and tooling for scalable quality engineering across web, API, and mobile platforms.
 
 ---
 
 ## 📌 Featured Projects
 
-#### [Maestro Android Automation](https://github.com/ashwinirajm/maestro-android-framework)
-- End-to-end Android flow coverage 
-- Data-driven testing with external YAML test data
-- Reusable modular Maestro flows
-- Supports dynamic element validation
-- Device-specific execution via config
-- Clean and maintainable project structure
+#### [AI Quality Framework ](https://github.com/ashwinirajm/ai-quality-framework)
+- Built AI evaluation framework for hallucination detection, relevancy scoring, and prompt regression testing
+- Implemented embedding-based cosine similarity validation for automated LLM response assessment
+- Added latency validation and CI/CD-integrated AI evaluation pipelines for continuous quality gating
+
+#### [AI-Native Playwright Framework ](https://github.com/ashwinirajm/ai-native-playwright-framework)
+- Built self-healing locator workflows using AI-driven DOM analysis and automated locator recovery
+- Implemented LLM-based failure analysis for automated root-cause detection and debugging insights
+- Developed prompt-driven Playwright test generation from natural language prompts
+- Added AI-powered synthetic and fuzz test generation for edge-case validation
+- Added AI-powered synthetic/fuzz test-data generation for resilience and edge-case validation
+- Designed multi-user browser orchestration for concurrent session and scalability testing
 
 #### [Pytest API Automation Framework](https://github.com/ashwinirajm/pytest-api-testing)
 - CRUD API test coverage
@@ -37,6 +42,14 @@ Reusable GitHub Actions CI templates for test automation
 - GitHub Actions integration
 - Modular and reusable
 
+#### [Maestro Android Automation](https://github.com/ashwinirajm/maestro-android-framework)
+- End-to-end Android flow coverage 
+- Data-driven testing with external YAML test data
+- Reusable modular Maestro flows
+- Supports dynamic element validation
+- Device-specific execution via config
+- Clean and maintainable project structure
+
 #### [Appium-bdd-multidevice-framework](https://github.com/ashwinirajm/appium-bdd-multidevice-framework)
 BDD-focused mobile automation framework
 - Cucumber BDD for business-critical scenarios
@@ -52,11 +65,11 @@ Security testing tool for real-time API monitoring
 ---
 
 ## 🧰 Tech Stack
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![REST Assured](https://img.shields.io/badge/REST_Assured-00897B?style=for-the-badge)  ![Appium](https://img.shields.io/badge/Appium-41BDF5?style=for-the-badge&logo=appium&logoColor=white)  ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
 
-**Languages:** Java, Python  
-**Automation:** Appium, TestNG, Cucumber, REST Assured, Pytest, Requests, Playwright, Maestro  
-**Build & CI/CD:** Maven, GitHub Actions, Jenkins  
+**Languages:** Java | Python | TypeScript  
+**Automation:** Appium | Playwright | REST Assured | Pytest | TestNG | Cucumber | Maestro  
+**AI / LLM:** Claude API | Gemini API | Prompt Engineering | LLM Evaluation  
+**Build & CI/CD:** GitHub Actions | Jenkins | Maven  
 **Reporting:** Allure 
 
 ---
@@ -68,5 +81,5 @@ Security testing tool for real-time API monitoring
 
 ⭐ If you find my projects useful, feel free to star or fork!
 
-🧩 Open to collaboration on automation and quality engineering initiatives.
+🧩 Open to collaboration on AI quality engineering, automation frameworks, and developer tooling.
 
