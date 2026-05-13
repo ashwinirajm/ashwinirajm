@@ -18,7 +18,6 @@ Building and experimenting with automation frameworks, AI-native testing workflo
 - Implemented LLM-based failure analysis for automated root-cause detection and debugging insights
 - Developed prompt-driven Playwright test generation from natural language prompts
 - Added AI-powered synthetic and fuzz test generation for edge-case validation
-- Added AI-powered synthetic/fuzz test-data generation for resilience and edge-case validation
 - Designed multi-user browser orchestration for concurrent session and scalability testing
 
 #### [Pytest API Automation Framework](https://github.com/ashwinirajm/pytest-api-testing)
