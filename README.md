@@ -72,8 +72,8 @@ Security testing tool for real-time API monitoring
 
 ## 🧰 Tech Stack
 
-**Languages:** Java | Python | TypeScript  
-**Automation:** Appium | Playwright | REST Assured | Pytest | TestNG | Cucumber | Maestro  
+**Languages:** Java | Python | TypeScript | JavaScript  
+**Automation:** Appium | Playwright | REST Assured | Pytest | TestNG | Cucumber | Maestro | K6  
 **AI / LLM:** Claude API | Gemini API | Prompt Engineering | LLM Evaluation  
 **Build & CI/CD:** GitHub Actions | Jenkins | Maven  
 **Reporting:** Allure 
