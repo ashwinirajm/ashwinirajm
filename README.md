@@ -20,6 +20,13 @@ Building and experimenting with automation frameworks, AI-native testing workflo
 - Added AI-powered synthetic and fuzz test generation for edge-case validation
 - Designed multi-user browser orchestration for concurrent session and scalability testing
 
+#### [Performance Testing Framework - k6 ](https://github.com/ashwinirajm/performance-test-framework-k6)
+- Built a K6-based performance testing framework for API validation
+- Designed and executed Load, Stress, Spike, Mixed Journey, and Endurance tests
+- Simulated real-world user traffic patterns using JavaScript-based scenarios
+- Implemented SLA validation using thresholds (P95 response time, failure rate)
+- Integrated CI/CD pipeline using GitHub Actions for automated test execution
+
 #### [Pytest API Automation Framework](https://github.com/ashwinirajm/pytest-api-testing)
 - CRUD API test coverage
 - Parameterized tests
