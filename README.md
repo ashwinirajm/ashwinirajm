@@ -21,7 +21,7 @@ Building and experimenting with automation frameworks, AI-native testing workflo
 - Designed multi-user browser orchestration for concurrent session and scalability testing
 
 #### [Performance Testing Framework - k6 ](https://github.com/ashwinirajm/performance-test-framework-k6)
-- Built a K6-based performance testing framework for API validation
+- Built a k6-based performance testing framework for API validation
 - Designed and executed Load, Stress, Spike, Mixed Journey, and Endurance tests
 - Simulated real-world user traffic patterns using JavaScript-based scenarios
 - Implemented SLA validation using thresholds (P95 response time, failure rate)
